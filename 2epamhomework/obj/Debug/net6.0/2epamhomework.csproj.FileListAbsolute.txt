@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\2epamhomework\2epamhomework\bin\Debug\net6.0\2epamhomework.exe
+C:\Users\Admin\source\repos\2epamhomework\2epamhomework\bin\Debug\net6.0\2epamhomework.deps.json
+C:\Users\Admin\source\repos\2epamhomework\2epamhomework\bin\Debug\net6.0\2epamhomework.runtimeconfig.json
+C:\Users\Admin\source\repos\2epamhomework\2epamhomework\bin\Debug\net6.0\2epamhomework.dll
+C:\Users\Admin\source\repos\2epamhomework\2epamhomework\bin\Debug\net6.0\2epamhomework.pdb
+C:\Users\Admin\source\repos\2epamhomework\2epamhomework\obj\Debug\net6.0\2epamhomework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\2epamhomework\2epamhomework\obj\Debug\net6.0\2epamhomework.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\2epamhomework\2epamhomework\obj\Debug\net6.0\2epamhomework.AssemblyInfo.cs
+C:\Users\Admin\source\repos\2epamhomework\2epamhomework\obj\Debug\net6.0\2epamhomework.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\2epamhomework\2epamhomework\obj\Debug\net6.0\2epamhomework.dll
+C:\Users\Admin\source\repos\2epamhomework\2epamhomework\obj\Debug\net6.0\refint\2epamhomework.dll
+C:\Users\Admin\source\repos\2epamhomework\2epamhomework\obj\Debug\net6.0\2epamhomework.pdb
+C:\Users\Admin\source\repos\2epamhomework\2epamhomework\obj\Debug\net6.0\2epamhomework.genruntimeconfig.cache
+C:\Users\Admin\source\repos\2epamhomework\2epamhomework\obj\Debug\net6.0\ref\2epamhomework.dll
